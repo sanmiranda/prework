@@ -1,0 +1,251 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 40px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+body{
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+.primer-titulo {
+  width: 100%;
+  margin: 0 auto;
+  color: white;
+  height: 100%;
+  padding-top: 25px;
+}
+.sign-up{
+  width:10%;
+  vertical-align: top;
+  font-size: 0.5em;
+  padding-left: 5px;
+  margin-left: 5px;
+  float:left;
+
+}
+.sign-up a{
+  text-decoration: none;
+  color: white;
+
+}
+.sign-up p{
+  color:white;
+  text-align: top;
+  font-size: 0.8em;
+  text-align: center;
+}
+.sign-up img{
+  float:right;
+}
+.oso{
+  float:right;
+  vertical-align:top;
+  padding-right: 15px;
+}
+.barra-busqueda{
+  width: 100%;
+  padding-top: 10px;
+  padding-left:5px;
+  position:relative;
+}
+
+.barra-busqueda input{
+  font: white;
+  background-color: rgb(31, 82, 111);
+  margin: 0 0;
+  width: 77%;
+  height: 30px;
+  vertical-align: top;
+  float:left;
+  border-color: rgba(255,255,255,0.1);
+  border-width: 1px;
+  border-style: solid;
+}
+.barra-busqueda img{
+  float:left;
+}
+.primer-titulo button{
+  background-color: rgb(240, 146, 51);
+  Padding: 9px;
+  border-radius: 14px;
+  width: 20%;
+  color: white;
+  margin-bottom: 1%;
+  margin-left: 5%;
+}
+header{
+  background-color: rgb(32, 101, 136);
+  height: 100%;
+  width: 100%;
+  font-size: 2em;
+  padding: 0;
+  margin: 0;
+}
+.fondo-header{
+  background-image: url(/Users/santiagomiranda/Downloads/lab-html-module-exercise-master/starter-code/images/city-scape.svg);
+  width: 100%;
+  float: right;
+  padding-top: 5px;
+  padding-bottom: 250px;
+  padding-left: 10%;
+}
+.primer-titulo h1{
+font-size: 50px;
+font-weight: 300;
+margin: 5%;
+}
+.primer-titulo p{
+  font-size: 17px;
+  font-weight: lighter;
+  margin: 5%;
+}
+.collaboration{
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 120px;
+  padding-left: 10%;
+  background-color: rgb(39, 53, 71);
+}
+.segundo-titulo{
+  width: 40%;
+  display: inline-block;
+  padding-left: 30px;
+  color:white;
+}
+.collaboration img{
+  width:45%;
+  padding-top: 3%;
+}
+.segundo-titulo button{
+  background-color: rgb(203, 56, 55);
+  Padding: 14px;
+  border-radius: 18px;
+  width: 60%;
+  color: white;
+  border-color: rgba(39, 53, 71);
+  border-width: 1px;
+  border-style: solid;
+  font-weight: lighter;
+  font-size: 14px;
+  margin-left: 25%;
+}
+.segundo-titulo ul{
+  color:white;
+  font-weight: lighter;
+  font-size: 18px;
+}
+li{
+  margin-bottom:15px;
+}
+h2{
+  color:white;
+  font-weight:lighter;
+  font-size:36px;
+  text-align:center;
+}
+.segundo-titulo p{
+  color:white;
+text-decoration: none;
+text-align: center;
+}
+.segundo-titulo a{
+  text-decoration: none;
+  color: white;
+  font-weight:600;
+}
+.what-npm{ 
+  background-image: url(/Users/santiagomiranda/Downloads/lab-html-module-exercise-master/starter-code/images/forklift.svg);
+  background-size: contain;
+  background-position: 50% 0;
+  padding: 60px 20px 180px 20px;
+}
+.what-npm img{
+height:100%;
+  width:100%;
+}
+.tercer-titulo p{
+  color:white;
+  font-weight:lighter;
+}
+.tercer-titulo h2{
+  color:white;
+  font-weight: lighter;
+}
+.tercer-titulo{
+  padding-left:10%;
+  margin-top: 5%;
+}
+.tercer-titulo button{
+  background-color:rgb(49, 68, 88);
+  Padding: 9px;
+  border-radius: 14px;
+  width: 10%;
+  color: white;
+  margin-bottom: 1%;
+  margin-left: 2%;
+  border-width: 1px;
+  border-style: solid;
+  font-weight: lighter;
+  font-size: 10px;
+  border-color: rgb(49, 68, 88);
+}
+.make{
+  background-color:white;
+}
+.cuarto-titulo{
+  text-align:center;
+  padding-top:2%;
+ 
+}
+h3{
+  font-size:22px;
+  color: rgb(83, 88, 98);
+  font-weight:lighter;
+}
+.cuarto-titulo p{
+  color:rgb(135, 145, 156);
+  font-weight:lighter;
+}
+.cuadros{
+  width: 20%;
+  float: left;
+  padding: 10px;
+  margin-left: 80px;
+  text-align:center;
+}
+.cuadros img{
+  display: block;
+  margin: auto;
+}
+.cuadros h4{
+  color:rgb(83, 88, 98);
+  font-weight: lighter;
+}
+.cuadros p{
+  color:rgb(135, 145, 156);
+  font-weight: lighter;
+}
+.cuadros a{
+  color: rgb(208, 74, 73);
+  text-decoration: none;
+  font-weight: 500;
+}
